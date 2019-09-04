@@ -551,6 +551,11 @@ var config = {
     fontNames: ['宋体', '微软雅黑', 'Arial', 'Tahoma', 'Verdana'],
 
     colors: ['#000000', '#eeece0', '#1c487f', '#4d80bf', '#c24f4a', '#8baa4a', '#7b5ba1', '#46acc8', '#f9963b', '#ffffff'],
+    fontSize: {
+        1: '12px',
+        2: '14px',
+        3: '16px'
+    },
 
     // // 语言配置
     // lang: {
